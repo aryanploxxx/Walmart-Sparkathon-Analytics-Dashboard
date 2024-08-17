@@ -1,0 +1,249 @@
+[
+    {
+      "_id": "63bf7ac9f03239e002001600",
+      "price": "$43.41",
+      "expense": "$5.97",
+      "transactions": [
+        "63bf7ccef03239554c002449",
+        "63bf7ccef03239855d00155c",
+        "63bf7ccef032397b4f001603",
+        "63bf7ccef03239eb9d0016d4"
+      ],
+      "name_of_product": "Classic Sneakers",
+      "units_sold": 116
+    },
+    {
+      "_id": "63bf7ac9f03239e002001601",
+      "price": "$60.13",
+      "expense": "$9.12",
+      "transactions": [
+        "63bf7ccef032396a8e001696",
+        "63bf7ccef0323922d2001694",
+        "63bf7ccef03239855d001557",
+        "63bf7ccef03239554c00244d"
+      ],
+      "name_of_product": "Leather Wallet",
+      "units_sold": 367
+    },
+    {
+      "_id": "63bf7ac9f03239e002001602",
+      "price": "$195.05",
+      "expense": "$6.72",
+      "transactions": [
+        "63bf7ccef03239e002001606",
+        "63bf7ccef0323922d200169a"
+      ],
+      "name_of_product": "Bluetooth Headphones",
+      "units_sold": 360
+    },
+    {
+      "_id": "63bf7ac9f03239e002001603",
+      "price": "$46.25",
+      "expense": "$9.95",
+      "transactions": [
+        "63bf7ccef03239aec900155b",
+        "63bf7ccef03239eb9d0016d3",
+        "63bf7ccef03239aec9001559"
+      ],
+      "name_of_product": "Smartphone Charger",
+      "units_sold": 147
+    },
+    {
+      "_id": "63bf7ac9f03239e002001604",
+      "price": "$87.41",
+      "expense": "$7.97",
+      "transactions": [
+        "63bf7ccef03239855d00155d",
+        "63bf7ccef03239855d001561",
+        "63bf7ccef03239e00200160e",
+        "63bf7ccef0323922d2001697",
+        "63bf7ccef032394f5f002442"
+      ],
+      "name_of_product": "Fitness Tracker",
+      "units_sold": 864
+    },
+    {
+      "_id": "63bf7ac9f03239e002001605",
+      "price": "$73.28",
+      "expense": "$7.85",
+      "transactions": [
+        "63bf7ccef03239966c0016a0",
+        "63bf7ccef03239966c00169f",
+        "63bf7ccef032394cbd0016a0",
+        "63bf7ccef03239554c002453",
+        "63bf7ccef0323901e6001557"
+      ],
+      "name_of_product": "Running Shoes",
+      "units_sold": 81
+    },
+    {
+      "_id": "63bf7ac9f03239343e00169b",
+      "price": "$130.65",
+      "expense": "$7.95",
+      "transactions": [
+        "63bf7ccef0323901e6001560",
+        "63bf7ccef032396d89000013"
+      ],
+      "name_of_product": "Canvas Backpack",
+      "units_sold": 521
+    },
+    {
+      "_id": "63bf7ac9f03239343e00169c",
+      "price": "$198.54",
+      "expense": "$9.50",
+      "transactions": [
+        "63bf7ccef03239eb9d0016d9",
+        "63bf7ccef032396a8e001696",
+        "63bf7ccef03239cf1b0016a7",
+        "63bf7ccef0323901e6001562"
+      ],
+      "name_of_product": "Electric Toothbrush",
+      "units_sold": 137
+    },
+    {
+      "_id": "63bf7ac9f03239343e00169d",
+      "price": "$147.32",
+      "expense": "$5.86",
+      "transactions": [
+        "63bf7ccef03239343e0016a9",
+        "63bf7ccef03239f920001690"
+      ],
+      "name_of_product": "Wool Sweater",
+      "units_sold": 399
+    },
+    {
+      "_id": "63bf7ac9f03239343e00169e",
+      "price": "$187.22",
+      "expense": "$5.82",
+      "transactions": [
+        "63bf7ccef03239aec9001560",
+        "63bf7ccef032396d8900000f",
+        "63bf7ccef0323922d2001697"
+      ],
+      "name_of_product": "Stainless Steel Water Bottle",
+      "units_sold": 629
+    },
+    {
+      "_id": "63bf7ac9f03239343e00169f",
+      "price": "$162.43",
+      "expense": "$3.28",
+      "transactions": [
+        "63bf7ccef032395ccf001697",
+        "63bf7ccef0323901e600155e",
+        "63bf7ccef03239aec9001559"
+      ],
+      "name_of_product": "Gaming Mouse",
+      "units_sold": 582
+    },
+    {
+      "_id": "63bf7ac9f03239343e0016a0",
+      "price": "$30.09",
+      "expense": "$8.55",
+      "transactions": [
+        "63bf7ccef03239343e0016a3"
+      ],
+      "name_of_product": "Travel Suitcase",
+      "units_sold": 763
+    },
+    {
+      "_id": "63bf7ac9f0323901e6001551",
+      "price": "$31.07",
+      "expense": "$4.98",
+      "transactions": [
+        "63bf7ccef032395ccf001695",
+        "63bf7ccef03239eb9d0016dd",
+        "63bf7ccef032397b4f001606",
+        "63bf7ccef03239855d00155b",
+        "63bf7ccef032397b4f001604"
+      ],
+      "name_of_product": "Portable Speaker",
+      "units_sold": 849
+    },
+    {
+      "_id": "63bf7ac9f0323901e6001552",
+      "price": "$12.21",
+      "expense": "$6.82",
+      "transactions": [
+        "63bf7ccef03239855d00155c",
+        "63bf7ccef032395ccf001696",
+        "63bf7ccef03239cf1b0016a2",
+        "63bf7ccef032396a8e00169a",
+        "63bf7ccef03239966c00169a"
+      ],
+      "name_of_product": "Digital Camera",
+      "units_sold": 947
+    },
+    {
+      "_id": "63bf7ac9f0323901e6001553",
+      "price": "$76.31",
+      "expense": "$3.84",
+      "transactions": [
+        "63bf7ccef03239e002001608",
+        "63bf7ccef0323922d200169b",
+        "63bf7ccef03239eb9d0016e6"
+      ],
+      "name_of_product": "Yoga Mat",
+      "units_sold": 645
+    },
+    {
+      "_id": "63bf7ac9f0323901e6001554",
+      "price": "$169.87",
+      "expense": "$8.35",
+      "transactions": [
+        "63bf7ccef03239eb9d0016d5",
+        "63bf7ccef03239966c00169e",
+        "63bf7ccef0323974200016a7"
+      ],
+      "name_of_product": "Coffee Maker",
+      "units_sold": 842
+    },
+    {
+      "_id": "63bf7ac9f0323901e6001555",
+      "price": "$187.36",
+      "expense": "$8.12",
+      "transactions": [
+        "63bf7ccef032394f5f00243a",
+        "63bf7ccef03239eb9d0016de",
+        "63bf7ccef03239f920001696"
+      ],
+      "name_of_product": "Chef's Knife",
+      "units_sold": 833
+    },
+    {
+      "_id": "63bf7ac9f0323901e6001556",
+      "price": "$67.52",
+      "expense": "$6.78",
+      "transactions": [
+        "63bf7ccef03239855d001562",
+        "63bf7ccef03239554c002453",
+        "63bf7ccef032394cbd0016a3"
+      ],
+      "name_of_product": "Electric Kettle",
+      "units_sold": 304
+    },
+    {
+      "_id": "63bf7ac9f0323901e6001557",
+      "price": "$154.22",
+      "expense": "$9.66",
+      "transactions": [
+        "63bf7ccef032396d89000014",
+        "63bf7ccef03239554c00244e",
+        "63bf7ccef032396d89000013"
+      ],
+      "name_of_product": "Instant Pot",
+      "units_sold": 616
+    },
+    {
+      "_id": "63bf7ac9f0323901e6001558",
+      "price": "$97.52",
+      "expense": "$6.91",
+      "transactions": [
+        "63bf7ccef03239855d001560",
+        "63bf7ccef032394cbd0016a4",
+        "63bf7ccef03239966c0016a0"
+      ],
+      "name_of_product": "Electric Oven",
+      "units_sold": 980
+    }
+  ]
+  
